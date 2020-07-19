@@ -1,5 +1,8 @@
 # CASExplorer
 
+![GitHub Logo](/CASExplorer.png)
+
+
 Hello -Terri
 
 Hello -Gavin
