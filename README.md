@@ -6,7 +6,7 @@ Image above is for demonstration purpose, we could change it to whatever is bett
 
 Hello -Terri
 
-Hello -Gavin
+Hello -Gavin 😎
 
 Hello –Sophia
 
