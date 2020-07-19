@@ -1,4 +1,4 @@
-# CASExplorer  :fire::fire::fire:
+# CASExplorer 
 
 ![GitHub Logo](/CASExplorer.png) 
 
@@ -15,6 +15,6 @@ Hello –Sophia
 
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
-Some emoji cheat sheet
+Some emoji cheat sheet :fire::fire::fire:
 
 https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
