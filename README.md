@@ -1,4 +1,4 @@
-# CASExplorer.  :fire::fire::fire:
+# CASExplorer  :fire::fire::fire:
 
 ![GitHub Logo](/CASExplorer.png) 
 
