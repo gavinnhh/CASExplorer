@@ -2,7 +2,7 @@
 
 ![GitHub Logo](/CASExplorer.png)
 
-Image above is for demonstration purpose, we could change it to whatever is better later :)
+Image above is for demonstration purpose, we could change it to whatever is better later :smile:
 
 Hello -Terri
 
