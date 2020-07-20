@@ -9,6 +9,10 @@
 
 ##### Let people know more about themselves, their academic and futures.
 
+## Long Description (Describe your team’s solution in about __ words):
+
+##### todo.....
+
 
 --------------------------------------------------------------------------
 
