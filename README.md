@@ -2,21 +2,16 @@
 
 ![GitHub Logo](/CASExplorer.png) 
 
-Image above is for demonstration purpose, we could change it to whatever is better later 😶
-
-Hello -Terri
-
-Hello -Gavin 😎
-
-Hello –Sophia
-
-Hello - Jenny
 
 ## Content
 
 ## Short Description (Describe your team’s solution in about ten words):
 
 ##### Let people know more about themselves, their academic and futures.
+
+
+
+
 
 **If you want to use bold text, change the font or any others**, see Basic writing and formatting syntax here:
 
