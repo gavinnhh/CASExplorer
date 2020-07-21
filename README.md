@@ -12,8 +12,7 @@
 ## Long Description (About 500 words, or around one page of text, that covers the solution in more detail. Please include the real-world problem you identified, describe the technology project you created, and explain why it's better than any existing solution):
 
 ##### What's the problem?
-COVID-19 has launched the world into the midst of unprecedented time. Educational instituions in the most affected areas are transioning to virtual learning to limit the spread of the Coronavirus. 
-
+COVID-19 has launched the world into the midst of unprecedented time. Educational institutions in the most affected areas are transitioning to virtual learning to limit the spread of the Coronavirus. Remote learning can be difficult to normalize due to the lack of one on one interaction between student and instructor and the lack of direct assistance and explanation from the instructor which can prevent students from assimilating the concepts to the fullest extent. 
 
 
 ##### Describe the technology project you created: #####
