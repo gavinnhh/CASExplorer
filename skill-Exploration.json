@@ -1,0 +1,4270 @@
+{
+  "intents": [
+    {
+      "intent": "metrics_feedback",
+      "examples": [
+        {
+          "text": "Eh...Kinda"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "intent": "Data_structures",
+      "examples": [
+        {
+          "text": "I want to learn about data structures."
+        },
+        {
+          "text": "Data_structures"
+        },
+        {
+          "text": "data structures"
+        }
+      ]
+    },
+    {
+      "intent": "future_projection",
+      "examples": [
+        {
+          "text": "future_projection"
+        },
+        {
+          "text": "future projections"
+        },
+        {
+          "text": "future projection"
+        }
+      ]
+    },
+    {
+      "intent": "academic_explain",
+      "examples": [
+        {
+          "text": "What is academic?"
+        },
+        {
+          "text": "What will I do in academic exploration?"
+        },
+        {
+          "text": "What is academic exploration about?"
+        },
+        {
+          "text": "What does academic exploration consist of?"
+        },
+        {
+          "text": "Could you tell me what academic exploration is?"
+        },
+        {
+          "text": "Could you explain what is academic exploration?"
+        },
+        {
+          "text": "Academic exploration?"
+        },
+        {
+          "text": "Why do I need to do academic exploration?"
+        },
+        {
+          "text": "What will I need to do in academic exploration?"
+        },
+        {
+          "text": "academic exploration"
+        },
+        {
+          "text": "What is academic exploration about"
+        },
+        {
+          "text": "What will I do in academic exploration"
+        },
+        {
+          "text": "Could you tell me what academic exploration is"
+        },
+        {
+          "text": "Could you explain what is academic exploration"
+        },
+        {
+          "text": "Why do I need to do academic exploration"
+        },
+        {
+          "text": "What will I need to do in academic exploration"
+        },
+        {
+          "text": "What is academic"
+        }
+      ],
+      "description": "Users may want to ask what each section in our bot is about. For users that inquire about the academic exploration category."
+    },
+    {
+      "intent": "career_explain",
+      "examples": [
+        {
+          "text": "Could you tell me what career exploration is?"
+        },
+        {
+          "text": "What is career exploration about?"
+        },
+        {
+          "text": "What does career exploration consist of?"
+        },
+        {
+          "text": "Could you explain what is career exploration?"
+        },
+        {
+          "text": "Could you tell me what career exploration is"
+        },
+        {
+          "text": "Could you explain what is career exploration"
+        },
+        {
+          "text": "Why do I need to do career exploration"
+        },
+        {
+          "text": "What will I need to do in career exploration"
+        },
+        {
+          "text": "What will I do in career exploration"
+        },
+        {
+          "text": "What is career exploration"
+        },
+        {
+          "text": "What is career exploration about"
+        },
+        {
+          "text": "Career exploration?"
+        },
+        {
+          "text": "Why do I need to do career exploration?"
+        },
+        {
+          "text": "What will I need to do in career exploration?"
+        },
+        {
+          "text": "What will I do in career exploration?"
+        },
+        {
+          "text": "What is career exploration?"
+        }
+      ],
+      "description": "To tell users the purpose of the career exploration category"
+    },
+    {
+      "intent": "changeMajor",
+      "examples": [
+        {
+          "text": "I want to change my major."
+        },
+        {
+          "text": "I'm looking to change my major."
+        }
+      ]
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "that's nice of you"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "academic",
+      "examples": [
+        {
+          "text": "Could I learn more about STEM majors?"
+        },
+        {
+          "text": "I want to learn more about the skills required of my major."
+        },
+        {
+          "text": "I want to learn more about my major."
+        },
+        {
+          "text": "Learn about majors"
+        },
+        {
+          "text": "Academic exploration please"
+        },
+        {
+          "text": "Can I learn about STEM concentrations?"
+        },
+        {
+          "text": "Can I learn about STEM fields?"
+        },
+        {
+          "text": "Can I learn more about my major?"
+        },
+        {
+          "text": "Can I learn more about STEM majors?"
+        },
+        {
+          "text": "Could I learn about STEM fields?"
+        },
+        {
+          "text": "Could I learn about STEM concentrations?"
+        },
+        {
+          "text": "Learn about my major"
+        },
+        {
+          "text": "Majors"
+        },
+        {
+          "text": "Learn about STEM majors"
+        },
+        {
+          "text": "STEM majors"
+        },
+        {
+          "text": "Could I learn more about my major?"
+        },
+        {
+          "text": "Academic exploration"
+        },
+        {
+          "text": "Academic"
+        }
+      ],
+      "description": "For users to explore STEM majors and their associated skills in the academic exploration section."
+    },
+    {
+      "intent": "no",
+      "examples": [
+        {
+          "text": "I'm good"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "I don't think so"
+        },
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "nope"
+        },
+        {
+          "text": "No thank you"
+        },
+        {
+          "text": "I want to see other subjects"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "learn_major",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "self_explain",
+      "examples": [
+        {
+          "text": "What will I need to do in self exploration"
+        },
+        {
+          "text": "Why do I need to do self exploration"
+        },
+        {
+          "text": "What do I need to do self-exploration"
+        },
+        {
+          "text": "What is self exploration about?"
+        },
+        {
+          "text": "Could you tell me what self-exploration is?"
+        },
+        {
+          "text": "What does self exploration consist of?"
+        },
+        {
+          "text": "What will I do in self exploration?"
+        },
+        {
+          "text": "Could you explain what is self exploration?"
+        },
+        {
+          "text": "Why do I need to do self-exploration?"
+        },
+        {
+          "text": "Self exploration?"
+        },
+        {
+          "text": "Self-exploration?"
+        },
+        {
+          "text": "Could you explain what is self-exploration?"
+        },
+        {
+          "text": "Could you tell me what self exploration?"
+        },
+        {
+          "text": "What does self-exploration consist of?"
+        },
+        {
+          "text": "What is self-exploration about?"
+        },
+        {
+          "text": "What will I do in self-exploration?"
+        },
+        {
+          "text": "Why do I need to do self exploration?"
+        },
+        {
+          "text": "What will I need to do in self-exploration?"
+        },
+        {
+          "text": "What will I need to do in self exploration?"
+        },
+        {
+          "text": "I want to know more about the self exploration category."
+        },
+        {
+          "text": "I want to know more about the self-exploration category."
+        },
+        {
+          "text": "Could you explain what is self exploration"
+        },
+        {
+          "text": "Could you explain what is self-exploration"
+        },
+        {
+          "text": "Could you tell me what self exploration is"
+        },
+        {
+          "text": "Could you tell me what self-exploration is"
+        },
+        {
+          "text": "What does self exploration consist of"
+        },
+        {
+          "text": "What does self-exploration consist of"
+        },
+        {
+          "text": "What is self exploration about"
+        },
+        {
+          "text": "What is self-exploration about"
+        },
+        {
+          "text": "What will I do in self exploration"
+        },
+        {
+          "text": "What will I do in self-exploration"
+        },
+        {
+          "text": "What will I need to do in self-exploration"
+        }
+      ],
+      "description": "Users may want to ask what each section in our bot is about. For users that inquire about the self-exploration category."
+    },
+    {
+      "intent": "major_info",
+      "examples": [
+        {
+          "text": "I want to know the possible opportunities with my major"
+        },
+        {
+          "text": "major_Info"
+        },
+        {
+          "text": "major information"
+        },
+        {
+          "text": "major info"
+        },
+        {
+          "text": "major"
+        },
+        {
+          "text": "I want to know more about my major"
+        },
+        {
+          "text": "I want to explore my major more"
+        }
+      ]
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "what can i say"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "help me"
+        }
+      ]
+    },
+    {
+      "intent": "learnMajor",
+      "examples": [
+        {
+          "text": "learn_about_major"
+        },
+        {
+          "text": "I want to learn more about my major."
+        }
+      ]
+    },
+    {
+      "intent": "ComputerScience",
+      "examples": [
+        {
+          "text": "I want to learn about CS"
+        },
+        {
+          "text": "Computer science"
+        },
+        {
+          "text": "CS"
+        },
+        {
+          "text": "My major is Computer Science"
+        },
+        {
+          "text": "I want to learn more about computer Science"
+        },
+        {
+          "text": "IT"
+        },
+        {
+          "text": "TCS"
+        },
+        {
+          "text": "CDE"
+        },
+        {
+          "text": "CE"
+        },
+        {
+          "text": "CA"
+        },
+        {
+          "text": "other area"
+        },
+        {
+          "text": "AI"
+        },
+        {
+          "text": "other"
+        },
+        {
+          "text": "others"
+        },
+        {
+          "text": "SE"
+        },
+        {
+          "text": "SA"
+        },
+        {
+          "text": "OS"
+        },
+        {
+          "text": "OSN"
+        }
+      ]
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "no, it does not"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "not really"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "major_role",
+      "examples": [
+        {
+          "text": "major role"
+        },
+        {
+          "text": "Major-roles"
+        },
+        {
+          "text": "major_roles"
+        },
+        {
+          "text": "major roles"
+        },
+        {
+          "text": "major_role"
+        }
+      ]
+    },
+    {
+      "intent": "Skills",
+      "examples": [
+        {
+          "text": "I want to learn about the skills needed to do well in Computer Science"
+        },
+        {
+          "text": "Skills for CS"
+        },
+        {
+          "text": "Skills"
+        },
+        {
+          "text": "Skills for Computer Science"
+        }
+      ]
+    },
+    {
+      "intent": "graduation_rate",
+      "examples": [
+        {
+          "text": "graduation rates"
+        },
+        {
+          "text": "graduation_rates"
+        },
+        {
+          "text": "graduation rate"
+        },
+        {
+          "text": "graduation_rate"
+        }
+      ]
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "roadmap",
+      "examples": [
+        {
+          "text": "What should I do as my career?"
+        },
+        {
+          "text": "Can you help me design the roadmap?"
+        },
+        {
+          "text": "Is there any roadmap for my career?"
+        },
+        {
+          "text": "roadmap"
+        }
+      ]
+    },
+    {
+      "intent": "major_popularity",
+      "examples": [
+        {
+          "text": "major_popularity_value"
+        },
+        {
+          "text": "how popular is this major"
+        },
+        {
+          "text": "major_popularity"
+        }
+      ]
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "Yes, it does"
+        },
+        {
+          "text": "yes, thanks"
+        },
+        {
+          "text": "yep"
+        },
+        {
+          "text": "ya"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "AcademicExploration",
+      "examples": [
+        {
+          "text": "Academic Exploration"
+        }
+      ]
+    },
+    {
+      "intent": "value_explain",
+      "examples": [
+        {
+          "text": "What are the chatbot features"
+        },
+        {
+          "text": "What are the chatbot features?"
+        },
+        {
+          "text": "Why is this useful for me?"
+        },
+        {
+          "text": "Why are we chatting?"
+        },
+        {
+          "text": "Why am I here?"
+        },
+        {
+          "text": "What's the purpose of this?"
+        },
+        {
+          "text": "What is this for?"
+        },
+        {
+          "text": "What is the purpose of this?"
+        },
+        {
+          "text": "What features do you have?"
+        },
+        {
+          "text": "What can you do?"
+        },
+        {
+          "text": "What can you do for me?"
+        },
+        {
+          "text": "In what ways can you help me?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "What services can you provide?"
+        },
+        {
+          "text": "purpose of the chat bot"
+        },
+        {
+          "text": "features of the chat bot"
+        },
+        {
+          "text": "What are the chatbot's features?"
+        },
+        {
+          "text": "Chatbot features"
+        },
+        {
+          "text": "Purpose of chatbot"
+        },
+        {
+          "text": "Features"
+        },
+        {
+          "text": "Chatbot features?"
+        },
+        {
+          "text": "Chatbot purpose?"
+        },
+        {
+          "text": "Chatbot purpose"
+        }
+      ],
+      "description": "Users may ask about the purpose of chatting with the bot. Gives the users an idea of the features of the chatbot"
+    },
+    {
+      "intent": "Connection",
+      "examples": [
+        {
+          "text": "Who can I ask for help"
+        },
+        {
+          "text": "connection"
+        },
+        {
+          "text": "Find my network"
+        },
+        {
+          "text": "Can I connect with someone in this field?"
+        },
+        {
+          "text": "Story"
+        },
+        {
+          "text": "I want to hear from some success stories"
+        }
+      ]
+    },
+    {
+      "intent": "yes",
+      "examples": [
+        {
+          "text": "Yes please"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "Yes, that's correct"
+        },
+        {
+          "text": "ya"
+        },
+        {
+          "text": "Yes I want"
+        },
+        {
+          "text": "fine"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "yeah"
+        },
+        {
+          "text": "okay"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "self",
+      "examples": [
+        {
+          "text": "Self-exploration"
+        },
+        {
+          "text": "Self exploration please"
+        },
+        {
+          "text": "Self exploration"
+        },
+        {
+          "text": "I would like to learn more about myself."
+        },
+        {
+          "text": "I would like to choose self-exploration."
+        },
+        {
+          "text": "I would like to choose self exploration."
+        },
+        {
+          "text": "I want to go to self exploration"
+        },
+        {
+          "text": "Could I take the personality test?"
+        },
+        {
+          "text": "Could I take a personality test?"
+        },
+        {
+          "text": "Could I explore more about myself?"
+        },
+        {
+          "text": "Can I take the personality test?"
+        },
+        {
+          "text": "Can I take a personality test?"
+        },
+        {
+          "text": "What is self"
+        },
+        {
+          "text": "What is self?"
+        },
+        {
+          "text": "Self-exploration please"
+        }
+      ],
+      "description": "Users want to learn more about themselves."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "Hey!"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Hello!"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "How's it going"
+        },
+        {
+          "text": "What's up"
+        },
+        {
+          "text": "Yo"
+        },
+        {
+          "text": "Sup"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "STEM",
+      "examples": [
+        {
+          "text": "Should I choose STEM major?"
+        },
+        {
+          "text": "What is STEM?"
+        },
+        {
+          "text": "Why should I choose STEM major?"
+        },
+        {
+          "text": "I want to study computer science"
+        },
+        {
+          "text": "I want to explore more about cs"
+        },
+        {
+          "text": "I want to explore more about EE"
+        },
+        {
+          "text": "I want to explore more about SE"
+        }
+      ]
+    },
+    {
+      "intent": "career",
+      "examples": [
+        {
+          "text": "I want to know something about my future job."
+        },
+        {
+          "text": "What kind of job can I take in the future?"
+        },
+        {
+          "text": "what can I get from you?"
+        },
+        {
+          "text": "I want to find work"
+        },
+        {
+          "text": "what services can you provide"
+        },
+        {
+          "text": "I want to explore my career"
+        },
+        {
+          "text": "What further service can you provide"
+        },
+        {
+          "text": "what else do you have"
+        },
+        {
+          "text": "Can you share with me some success stories?"
+        },
+        {
+          "text": "I would like to choose career exploration."
+        },
+        {
+          "text": "Careers"
+        },
+        {
+          "text": "Career roadmaps"
+        },
+        {
+          "text": "Can you share with me some stories about people who chose the same major?"
+        },
+        {
+          "text": "Career help"
+        },
+        {
+          "text": "Career exploration please"
+        },
+        {
+          "text": "Career exploration"
+        },
+        {
+          "text": "Career"
+        },
+        {
+          "text": "Alumni stories"
+        },
+        {
+          "text": "Jobs"
+        },
+        {
+          "text": "What can I do if I choose this major?"
+        },
+        {
+          "text": "What will my future be like?"
+        },
+        {
+          "text": "I am not sure about my career"
+        },
+        {
+          "text": "I am not sure about my future"
+        },
+        {
+          "text": "Do you provide any service for career?"
+        },
+        {
+          "text": "I would like to explore my career here."
+        },
+        {
+          "text": "explore my future"
+        },
+        {
+          "text": "What is career?"
+        },
+        {
+          "text": "What is career"
+        }
+      ],
+      "description": " For users to explore careers in STEM, career roadmaps, and alumni stories. "
+    }
+  ],
+  "entities": [
+    {
+      "entity": "service",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "service",
+          "synonyms": [
+            "provide",
+            "get",
+            "serving",
+            "customer",
+            "services"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "extroversion",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "extroversion",
+          "synonyms": [
+            "extraversion",
+            "extraverted",
+            "sociability",
+            "friendliness"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "learnMajor",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Computer Science",
+          "synonyms": [
+            "CS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Statistic",
+          "synonyms": [
+            "STAT"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Management Information System",
+          "synonyms": [
+            "MIS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Software Engineering",
+          "synonyms": [
+            "SE"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Electrical Engineering",
+          "synonyms": [
+            "EE"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "AcademicExploration",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "learn_major",
+          "synonyms": [
+            "do in self-exploration",
+            "do in self exploration?",
+            "self-exploration about?",
+            "self exploration about?",
+            "self exploration consist of?",
+            "self-exploration consist of?",
+            "self-exploration?",
+            "self exploration?"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "academic",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Majors",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "my major",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "STEM concentrations",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "STEM fields",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "STEM majors",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "academic exploration about?",
+          "synonyms": [
+            "academic exploration consist of?",
+            "Academic exploration?",
+            "what academic exploration is?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Academic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "academic exploration",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "skills",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Computer Networks",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Data Structures",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Algorithms",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "conscientiousness",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "conscientiousness",
+          "synonyms": [
+            "considerate",
+            "thoughtfulness",
+            "responsible",
+            "respectfulness",
+            "awareness",
+            "network",
+            "alumni story",
+            "road map"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "emotional_stability",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "emotional stability",
+          "synonyms": [
+            "calm",
+            "collected",
+            "rational",
+            "composed",
+            "mellow"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "future",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Career",
+          "synonyms": [
+            "potentials",
+            "professional",
+            "employment",
+            "profession",
+            "possibility",
+            "prospective",
+            "opportunities",
+            "careers",
+            "jobs",
+            "working",
+            "potential",
+            "work",
+            "job",
+            "future"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "roadmap",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "road",
+          "synonyms": [
+            "next",
+            "do next",
+            "route",
+            "creating",
+            "development",
+            "designing",
+            "maps",
+            "design",
+            "creation",
+            "map"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "STEM",
+          "synonyms": [
+            "statistics",
+            "Software Engineering",
+            "Information",
+            "Information Technology",
+            "CS",
+            "Management Information Systems",
+            "MIS",
+            "Data Networking",
+            "analyze",
+            "analysis",
+            "data analytics",
+            "Data Science",
+            "Architectural Engineering",
+            "Electrical Engineering",
+            "Computer Engineering",
+            "computer science",
+            "Math",
+            "maths",
+            "engineer",
+            "engineering",
+            "technology",
+            "science"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Others",
+          "synonyms": [
+            "hr",
+            "management",
+            "accounting",
+            "finance",
+            "environment",
+            "nursing",
+            "physics",
+            "chemistry",
+            "business",
+            "journalism",
+            "arts"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "self",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "myself",
+          "synonyms": [
+            "career based on personality"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "personality test",
+          "synonyms": [
+            "personality insight",
+            "friendliness",
+            "sociability",
+            "extraverted",
+            "extraversion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "self exploration",
+          "synonyms": [
+            "self-exploration",
+            "go back?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "suitable career for me",
+          "synonyms": [
+            "career based on personality",
+            "open-mindedness",
+            "flexibility",
+            "willingness",
+            "openness"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "what is self exploration?",
+          "synonyms": [
+            "self exploration?",
+            "self-exploration?",
+            "self-exploration consist of?",
+            "self exploration consist of?",
+            "self exploration about?",
+            "self-exploration about?",
+            "do in self exploration?",
+            "do in self-exploration",
+            "personality insight"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "self",
+          "synonyms": [
+            "self-exploration"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Connection",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Story",
+          "synonyms": [
+            "tell",
+            "ask",
+            "exchanging",
+            "shared",
+            "stories",
+            "storysharing",
+            "storytelling",
+            "hear",
+            "Sharing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ComputerScience",
+          "synonyms": [
+            "Software Engineering",
+            "SE",
+            "SA",
+            "Software Applications",
+            "OSN",
+            "OS",
+            "Operating Systems and Networks",
+            "IT",
+            "Information Technology",
+            "TCS",
+            "Theoretical Computer Science",
+            "CDE",
+            "CD",
+            "CE",
+            "Computer Design and Engineering",
+            "CA",
+            "Computer Architecture",
+            "Artificial Intelligence",
+            "AI",
+            "CS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "network",
+          "synonyms": [
+            "know",
+            "connect",
+            "connections",
+            "networks"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "ComputerScience",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "CE",
+          "synonyms": [
+            "CD",
+            "Computer Design and Engineer",
+            "Computer Engineering"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "TCS",
+          "synonyms": [
+            "Theoretical Computer Science"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "IT",
+          "synonyms": [
+            "Information Technology"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "OSN",
+          "synonyms": [
+            "Operating Systems",
+            "Operating Systems and Networks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "SA",
+          "synonyms": [
+            "Software Applications"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CA",
+          "synonyms": [
+            "Computer Architecture"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "AI",
+          "synonyms": [
+            "Artificial Intelligence"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Skills",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "SE",
+          "synonyms": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "other",
+          "synonyms": [
+            "other area",
+            "others"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "openness",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "openness to experience",
+          "synonyms": [
+            "openness",
+            "willingness",
+            "flexibility",
+            "open-mindedness",
+            "mellow",
+            "composed",
+            "rational",
+            "collected",
+            "calm"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "STEM",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Software Engineer",
+          "synonyms": [
+            "software",
+            "software engineering",
+            "SE"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Electrical Engineering",
+          "synonyms": [
+            "electrical engineer",
+            "EE"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Statistics",
+          "synonyms": [
+            "statistic",
+            "stats",
+            "stat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Management Information Systems",
+          "synonyms": [
+            "information technology",
+            "MIS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CS",
+          "synonyms": [
+            "cs",
+            "Computer Science"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "career",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Career help",
+          "synonyms": [
+            "understanding",
+            "receptiveness",
+            "tolerant",
+            "team-player"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Career roadmaps",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alumni stories",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "career exploration about?",
+          "synonyms": [
+            "career exploration consist of?",
+            "career exploration is?",
+            "Career exploration?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "career exploration",
+          "synonyms": [
+            "road map",
+            "alumni story",
+            "network",
+            "Career exploration?",
+            "career exploration is?",
+            "career exploration consist of?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Career",
+          "synonyms": [
+            "Careers"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "agreeableness",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "agreeableness",
+          "synonyms": [
+            "team-player",
+            "tolerant",
+            "receptiveness",
+            "understanding"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your feedback."
+              },
+              {
+                "text": "Thanks. I hope I can do better next time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**Major info**, **academic exploration**, **career exploration**, **self-exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1594409694387",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_9_1594361411438"
+      },
+      "conditions": "#metrics_feedback || #General_Positive_Feedback || #General_Negative_Feedback",
+      "dialog_node": "node_6_1594409774495"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to explore next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1594361579426",
+      "conditions": "#no || #General_Negative_Feedback",
+      "dialog_node": "node_5_1594418081277",
+      "previous_sibling": "node_9_1594361717820"
+    },
+    {
+      "type": "standard",
+      "title": "Not Free Resources for Data Structures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<a href=\"https://www.udemy.com/course/introduction-to-data-structures/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-MWX8R11hjWRGjALFQVoC_A&utm_medium=udemyads&utm_source=aff-campaign\" target=\"blank\"> Easy to Advanced Data Structures </a> on Udemy is one of the best paid online courses to learn about Data Structures. This course doesn’t expect you to have any prior knowledge of data structures, but a basic prior knowledge of Java is helpful.\n\n<br><a href=\"https://udemy.com/course/datastructurescncpp/\" target=\"blank\"> Mastering Data Structures & Algorithms using C and C++ </a> on Udemy is one of the best paid online courses to learn about Data Structures. This course is one of the best-sellers on Udemy and received much positive feedback from the students. \n\n<br><a href=\"https://www.linkedin.com/learning/\" target=\"blank\"> LinkedIn Learning </a> has many courses on Data Structures, ranging from easy to advanced. The courses come with exercise files for students to work on while watching the lectures. LinkedIn Learning only costs 30 USD a month and is free for students within certain educational institutions. \n\n<br><a href=\"https://www.algoexpert.io/product\" target=\"blank\"> Algoexpert.io </a> video series on data structures is the ultimate crash course on this important topic. This program covers fundamental concepts and will help you practice for your coding interviews. It only costs 129 USD per year. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Would you like to learn more about computer science? (*Type yes or no*)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1594361579426",
+      "conditions": "#yes || #General_Positive_Feedback",
+      "dialog_node": "node_9_1594361717820"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's okay. What would you like to do next? (**Academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1593806544957",
+      "conditions": "#no || #General_Negative_Feedback",
+      "dialog_node": "node_15_1593806544982",
+      "previous_sibling": "node_2_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_1_1593806544957",
+      "context": {
+        "emo": "Emotional Stability",
+        "cons": "Conscientiousness",
+        "agree": "Agreeableness",
+        "extro": "Extroversion",
+        "openness": "Openness to Experience"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1593806544982"
+      },
+      "conditions": "#yes || #General_Positive_Feedback",
+      "dialog_node": "node_2_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Other Majors",
+            "options": [
+              {
+                "label": "Arts",
+                "value": {
+                  "input": {
+                    "text": "arts"
+                  }
+                }
+              },
+              {
+                "label": "Science",
+                "value": {
+                  "input": {
+                    "text": "science"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1594541287691",
+      "conditions": "@roadmap:Others",
+      "dialog_node": "node_4_1594541480975",
+      "previous_sibling": "node_1_1594541388724"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "STEM Major",
+            "options": [
+              {
+                "label": "Computer Science",
+                "value": {
+                  "input": {
+                    "text": "CS"
+                  }
+                }
+              },
+              {
+                "label": "Software Engineer",
+                "value": {
+                  "input": {
+                    "text": "SE"
+                  }
+                }
+              },
+              {
+                "label": "Electrical Engineering",
+                "value": {
+                  "input": {
+                    "text": "EE"
+                  }
+                }
+              },
+              {
+                "label": "Management Information Systems",
+                "value": {
+                  "input": {
+                    "text": "MIS"
+                  }
+                }
+              },
+              {
+                "label": "Statistics",
+                "value": {
+                  "input": {
+                    "text": "Stat"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1594541287691",
+      "conditions": "@roadmap:STEM",
+      "dialog_node": "node_1_1594541388724"
+    },
+    {
+      "type": "standard",
+      "title": "future_projection",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to the U.S. Bureau of Labor Statistics, computer science is a multifaceted field, and new graduates with computer science degrees might find a job in a wide variety of industries. In general, the median annual salary for computer and information technology occupations was 82,860 USD as of May 2016.\n\nAlso, according to Glassdoor, computer scientist salaries are estimated at 99,050 USD. "
+              },
+              {
+                "text": " Top 8 companies that hire the most computer science majors, according to GeekWire, are below. (Please open in new tab.)\n-<a href=\"https://www.cscglobal.com/cscglobal/brand/csc-careers/\">CSC</a>\n-<a href=\"https://applabsystems.com/pages/welcome/career/careers.php\">AppLabs</a>\n-<a href=\"https://www.gd.com/careers\">General Dynamics</a>\n-<a href=\"https://careers.microsoft.com/us/en/\">Microsoft</a>\n-<a href=\"https://www2.deloitte.com/us/en/pages/careers/topics/careers.html\">Deloitte</a>\n-<a href=\"https://www.amazon.jobs/en/\">Amazon</a>\n-<a href=\"https://www.mantech.com/careers\">ManTech International</a>\n-<a href=\"https://jobs.rtx.com/search-jobs\">Raytheon</a>\nRead more about each company <a href=\"https://www.computersciencedegreehub.com/faq/type-companies-hire-computer-science-degree/\" target=\"blank\">here</a>."
+              },
+              {
+                "text": "\"Employment of computer and information research scientists is projected to grow 16 percent from 2018 to 2028, much faster than the average for all occupations. Computer scientists are likely to enjoy excellent job prospects, because many companies report difficulties finding these highly skilled workers.\" \n\nSee <a href=\"https://www.topuniversities.com/courses/computer-science-information-systems/5-trends-computer-science-research\" target=\"blank\">5 Trends in Computer Science Research</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Is this what you are looking for?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              },
+              {
+                "label": "Eh....Kinda",
+                "value": {
+                  "input": {
+                    "text": "Eh....Kinda"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1594361411438",
+      "conditions": "#future_projection",
+      "dialog_node": "node_1_1594409914530",
+      "previous_sibling": "node_8_1594409694387"
+    },
+    {
+      "type": "standard",
+      "title": "major_role",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to U.S. News, the following types of jobs are positions where a degree in computer science is a major asset:\n-Data scientist\n-Software tester\n-Web developer\n-Systems analyst\n-Business analyst\n-Product manager\n-Network architect\n-Software engineer\nSee more <a href=\"https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree\" target=\"blank\">here</a>."
+              },
+              {
+                "text": "\"<a href=\"https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/\" target=\"blank\">Depauw University</a> explains the most important aspect of computer science is problem solving. In computer science, students learn about the design, development, and analysis of software and hardware used to solve a variety of problems in different contexts, such as in business, science, and social sciences.\""
+              },
+              {
+                "text": "Computer scientists use programming technologies to solve various problems. From building mobile applications to developing software, the main purpose is to assist humans with finishing tasks and solving issues arising in different contexts. For example, computer scientists can create a software program to predict the weather in the next coming week based on some history data. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Is this what you are looking for?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              },
+              {
+                "label": "Eh...Kinda",
+                "value": {
+                  "input": {
+                    "text": "Eh...Kinda"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1594361411438",
+      "conditions": "#major_role",
+      "dialog_node": "node_8_1594409694387",
+      "previous_sibling": "node_1_1594408647497"
+    },
+    {
+      "type": "standard",
+      "title": "graduation_rate",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Computer science is a very challenging major. Computer Science Education Week states that \"fewer than 3% of college students graduate with computer science and out of all STEM graduates, only 8% of graduates are in computer science.\" Read more interesting facts about the state of computer science <a href=\"https://csedweek.org/resource_kit/blurbs\" target=\"blank\">here</a>."
+              },
+              {
+                "text": "According to Data USA, the number of Computer Sciences and Support Services graduates in the workforce has grown at a rate of 4.78% from 2017 to 2018. Read more <a href=\"https://datausa.io/profile/cip/computer-science-6\" target=\"blank\">here</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Is this what you are looking for?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              },
+              {
+                "label": "Eh...Kinda",
+                "value": {
+                  "input": {
+                    "text": "Eh...Kinda"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1594361411438",
+      "conditions": "#graduation_rate",
+      "dialog_node": "node_1_1594410025062",
+      "previous_sibling": "node_1_1594409914530"
+    },
+    {
+      "type": "standard",
+      "title": "major_popularity",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In 2016, Computer Science climbed to 4th most popular STEM major for college-bound students. In 2013, Computer Science was the 8th most-popular STEM major/career. See more <a href=\"https://medium.com/@codeorg/computer-science-climbs-to-4th-most-popular-stem-major-for-college-bound-students-773ce681b96c#:~:text=Open%20in%20app-,Computer%20Science%20climbs%20to%204th%20most,major%20for%20college%2Dbound%20students&text=In%202013%2C%20Computer%20Science%20was,2016%2C%20it%20was%20the%204th.\" target=\"blank\">here</a>."
+              },
+              {
+                "text": "\"Computer science is the third most popular major amongst international students coming to the United States. There are many reasons that computer science is so popular, including exceptional job security, uncommonly high starting salaries, and diverse job opportunities across industries.\" Click <a href=\"https://www.internationalstudent.com/study-computer-science/what-is-computer-science/\" target=\"blank\">here</a> for more."
+              },
+              {
+                "text": "Is it worth majoring in computer science? One Quora user explains, computer science (CS) is still a good major and is worth learning because it can be useful in jobs requiring programming skills. Read other opinions <a href=\"https://www.quora.com/Is-it-worth-learning-computer-science-in-2020\" target=\"blank\">here</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Is this what you are looking for?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              },
+              {
+                "label": "Eh...Kinda",
+                "value": {
+                  "input": {
+                    "text": "Eh...Kinda"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1594361411438",
+      "conditions": "#major_popularity",
+      "dialog_node": "node_1_1594408647497"
+    },
+    {
+      "type": "standard",
+      "title": "Menu for Skills and Major Info for CS ",
+      "output": {
+        "generic": [
+          {
+            "title": "Awesome! What would you like to know more about? ",
+            "options": [
+              {
+                "label": "Skills required to succeed in Computer Science ",
+                "value": {
+                  "input": {
+                    "text": "skills"
+                  }
+                }
+              },
+              {
+                "label": "Information about Computer Science ",
+                "value": {
+                  "input": {
+                    "text": "major_info"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1594360782250",
+      "conditions": "@learnMajor:(Computer Science)",
+      "dialog_node": "node_2_1594360957467"
+    },
+    {
+      "type": "standard",
+      "title": "Free Resources for Data Structures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<a href=\"https://cs50.harvard.edu/college/2020/spring/weeks/5/\" target=\"blank\">The CS 50 : Introduction to Computer Science course </a>by Harvard University is one of the best free online courses to learn about Data Structures. \n\n<br><a href=\"https://www.udemy.com/course/data-structures-in-c/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-5qbg8cGPZPTu2q8JGi6Z2w&utm_medium=udemyads&utm_source=aff-campaign\" target=\"blank\">Data Structures Concepts & Singly Linked List Implementation </a> is free on Udemy. This course will teach the basic fundamentals of data structures. It will help students and software engineers visualize how different data structures work.\n\n<br><a href=\"https://www.youtube.com/watch?v=RBSGKlAvoiM&t=91s\" target=\"blank\">Data Structures Easy to Advanced Course </a> on Youtube can help you learn Data Structures by using step-by-step instructions. This is an 8-hour course from Google engineer William Fisetthat. \n\n<br>You can also earn certifications through freecodecamp.org and display them on your Linkedin profile or resume.  <a href=\"https://www.freecodecamp.org/learn\"target=\"blank\"> Coding Interview Prep </a>by Freecodecamp contains a section on Data Structures. It is good practice for future coding interviews.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Do you want to see more resources? These resources are not free, but they do have their benefits! (*Type yes or no*)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1594361065054",
+      "conditions": "#Data_structures",
+      "dialog_node": "node_7_1594361579426"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your lowest trait is $emo. You need a comfortable and safe environment to express yourself. People who score low on $emo may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Technical%20Writers&onetcode=27304200&location=UNITED%20STATES\" target=\"blank\">Technical Writer</a> and <a href=\"https://imbc.edu/2018/06/04/what-does-a-medical-records-technician-do/\" target=\"blank\">Medical Records Technician</a>."
+              },
+              {
+                "text": "Your lowest trait is $emo. You do well when you can work in a safe and encouraging environment. People who score low on $emo may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Technical%20Writers&onetcode=27304200&location=UNITED%20STATES\" target=\"blank\">Technical Writer</a> and <a href=\"https://imbc.edu/2018/06/04/what-does-a-medical-records-technician-do/\" target=\"blank\">Medical Records Technician</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_9_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1593205381495"
+      },
+      "conditions": "@emotional_stability",
+      "dialog_node": "node_14_1593806544982",
+      "previous_sibling": "node_13_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your lowest trait is $extro. You thrive in solo work or in small groups and spending time alone allows you to recharge. People who score low on $extro may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Software%20Developers,%20Applications&onetcode=15113200&location=UNITED%20STATES\" target=\"blank\">Software Developer</a> and <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=15111100\" target=\"blank\">Computer and Information Researchers</a>."
+              },
+              {
+                "text": "Your lowest trait is $extro. You flourish when you have space to process before speaking in larger group settings. People who score low on $extro may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Software%20Developers,%20Applications&onetcode=15113200&location=UNITED%20STATES\" target=\"blank\">Software Developer</a> and <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=15111100\" target=\"blank\">Computer and Information Researchers</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_9_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1593205381495"
+      },
+      "conditions": "@extroversion",
+      "dialog_node": "node_12_1593806544982",
+      "previous_sibling": "node_11_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your lowest trait is $cons. You tend to dislike formal working environments and enjoy spontaneous tasks. People who score low on $cons may enjoy the following careers: <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=15119911\" target=\"blank\">Video Game Designer</a> and <a href=\"http://www.onwardsearch.com/career-center/ux-careers-guide/\" target=\"blank\">User Interface (UI)/User Experience (UX)</a>."
+              },
+              {
+                "text": "Your lowest trait is $cons. You need space to improvise and like less structured jobs. People who score low on $cons may enjoy the following careers: <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=15119911\" target=\"blank\">Video Game Designer</a> and <a href=\"http://www.onwardsearch.com/career-center/ux-careers-guide/\" target=\"blank\">User Interface (UI)/User Experience (UX)</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_9_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1593205381495"
+      },
+      "conditions": "@conscientiousness",
+      "dialog_node": "node_11_1593806544982",
+      "previous_sibling": "node_10_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your lowest trait is $agree. You are transparent with your personal opinions and are straightforward. People who score high on $agree may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Software%20Developers,%20Applications&onetcode=15113200&location=UNITED%20STATES\" target=\"blank\">Software Developer</a> and <a href=\"https://engineeringonline.ucr.edu/blog/how-to-become-a-machine-learning-engineer/\" target=\"blank\">Machine Learning Engineer</a>."
+              },
+              {
+                "text": "Your lowest trait is $agree. You prefer being logical and want others to be direct with you. People who score high on $agree may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Software%20Developers,%20Applications&onetcode=15113200&location=UNITED%20STATES\" target=\"blank\">Software Developer</a> and <a href=\"https://engineeringonline.ucr.edu/blog/how-to-become-a-machine-learning-engineer/\" target=\"blank\">Machine Learning Engineer</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_9_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1593205381495"
+      },
+      "conditions": "@agreeableness",
+      "dialog_node": "node_13_1593806544982",
+      "previous_sibling": "node_12_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Your lowest trait is $openness. This means you’re comfortable with a routine and enjoy a stable working environment. People who score low on $openness may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Financial%20Analysts&onetcode=13205100&location=UNITED%20STATES\" target=\"blank\">Financial Analyst</a> and <a href=\"http://www.ala.org/educationcareers/careers/paths/assistant\" target=\"blank\">Library Technician</a>."
+              },
+              {
+                "text": "Your lowest trait is $openness. You like to think concretely and prefer tradition. People who score low on $openness may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Financial%20Analysts&onetcode=13205100&location=UNITED%20STATES\" target=\"blank\">Financial Analyst</a> and <a href=\"http://www.ala.org/educationcareers/careers/paths/assistant\" target=\"blank\">Library Technician</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1593205381495"
+      },
+      "conditions": "@openness",
+      "dialog_node": "node_10_1593806544982"
+    },
+    {
+      "type": "standard",
+      "title": "Conclusion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Now that I assisted you in learning about yourself, it is up to you to continue your career search. I only provided a few career examples to guide you. Here are some resources that could help: <a href=\"https://career.berkeley.edu/Plan/CareerFields\" target=\"blank\">Berkeley Career Resource</a> and <a href=\"https://www.careeronestop.org/\">CareerOneStop</a>.\n\n<br>Where would you like to go next? (**academic**, **career**, or **self exploration**)"
+              },
+              {
+                "text": "Good luck on your career exploration! Use what you learned about yourself to search for your ideal career. Here are some resources that could help: <a href=\"https://career.berkeley.edu/Plan/CareerFields\" target=\"blank\">Berkeley Career Resource</a> and <a href=\"https://www.careeronestop.org/\">CareerOneStop</a>\n\n<br>Where would you like to go next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1593806544982",
+      "conditions": "true",
+      "dialog_node": "node_8_1593205381495",
+      "previous_sibling": "node_9_1593806544982"
+    },
+    {
+      "type": "standard",
+      "title": "Trait w/ lowest score",
+      "output": {
+        "generic": [
+          {
+            "title": "Please select the trait with the lowest score.",
+            "options": [
+              {
+                "label": "Openness to Experience",
+                "value": {
+                  "input": {
+                    "text": "My lowest trait is $openness."
+                  }
+                }
+              },
+              {
+                "label": "Conscientiousness",
+                "value": {
+                  "input": {
+                    "text": "My lowest trait is $cons."
+                  }
+                }
+              },
+              {
+                "label": "Extroversion",
+                "value": {
+                  "input": {
+                    "text": "My lowest trait is $extro."
+                  }
+                }
+              },
+              {
+                "label": "Agreeableness",
+                "value": {
+                  "input": {
+                    "text": "My lowest trait is $agree."
+                  }
+                }
+              },
+              {
+                "label": "Emotional Stability",
+                "value": {
+                  "input": {
+                    "text": "My lowest trait is $emo."
+                  }
+                }
+              }
+            ],
+            "description": "Use the score percentile from your test results.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1593806544982",
+      "context": {},
+      "conditions": "true",
+      "dialog_node": "node_9_1593806544982",
+      "previous_sibling": "node_3_1593806544982"
+    },
+    {
+      "type": "standard",
+      "title": "Trait w/ highest score",
+      "output": {
+        "generic": [
+          {
+            "title": "Please select the trait with the highest score.",
+            "options": [
+              {
+                "label": "Openness to Experience",
+                "value": {
+                  "input": {
+                    "text": "My highest trait is $openness."
+                  }
+                }
+              },
+              {
+                "label": "Conscientiousness",
+                "value": {
+                  "input": {
+                    "text": "My highest trait is $cons."
+                  }
+                }
+              },
+              {
+                "label": "Extroversion",
+                "value": {
+                  "input": {
+                    "text": "My highest trait is $extro."
+                  }
+                }
+              },
+              {
+                "label": "Agreeableness",
+                "value": {
+                  "input": {
+                    "text": "My highest trait is $agree."
+                  }
+                }
+              },
+              {
+                "label": "Emotional Stability",
+                "value": {
+                  "input": {
+                    "text": "My highest trait is $emo."
+                  }
+                }
+              }
+            ],
+            "description": "Use the score percentile from your test results.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1593806544982",
+      "context": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1593806544982"
+    },
+    {
+      "type": "standard",
+      "title": "Did you finish the personality test? ",
+      "output": {
+        "generic": [
+          {
+            "title": "Did you finish the test?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1593806506978",
+      "conditions": "true",
+      "dialog_node": "node_1_1593806544957"
+    },
+    {
+      "type": "standard",
+      "title": "feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your feedback."
+              },
+              {
+                "text": "Thanks. I hope I can do better next time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**Major info**, **academic exploration**, **career exploration**, **self-exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594410025062",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_9_1594361411438"
+      },
+      "conditions": "#metrics_feedback || #General_Negative_Feedback || #General_Positive_Feedback",
+      "dialog_node": "node_4_1594410082688"
+    },
+    {
+      "type": "standard",
+      "title": "Check for no",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594542037050",
+      "conditions": "#no || #General_Negative_Feedback",
+      "dialog_node": "node_7_1594542249140",
+      "previous_sibling": "node_5_1594542134343"
+    },
+    {
+      "type": "standard",
+      "title": "connect with gavin",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can connect with Gavin <a href=\"https://www.linkedin.com/in/gavin0315/\" target=\"blank\">here on LinkedIn</a>. Once you're connected, you can send him a message to learn more about his experience."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594542037050",
+      "conditions": "#yes || #General_Positive_Feedback",
+      "dialog_node": "node_5_1594542134343"
+    },
+    {
+      "type": "standard",
+      "title": "Skills to Learn for CS ",
+      "output": {
+        "generic": [
+          {
+            "title": "Awesome! What skill would you like to learn more about?  ",
+            "options": [
+              {
+                "label": "Algorithms",
+                "value": {
+                  "input": {
+                    "text": "Algorithms"
+                  }
+                }
+              },
+              {
+                "label": "Data Structures ",
+                "value": {
+                  "input": {
+                    "text": "Data_structures "
+                  }
+                }
+              },
+              {
+                "label": "Computer Networks",
+                "value": {
+                  "input": {
+                    "text": "Computer_networks"
+                  }
+                }
+              },
+              {
+                "label": "Programming Languages",
+                "value": {
+                  "input": {
+                    "text": "Programming_languages"
+                  }
+                }
+              },
+              {
+                "label": "Calculus",
+                "value": {
+                  "input": {
+                    "text": "Calculus"
+                  }
+                }
+              },
+              {
+                "label": "Data Management",
+                "value": {
+                  "input": {
+                    "text": "Data_management"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1594360957467",
+      "conditions": "@ComputerScience:Skills",
+      "dialog_node": "node_5_1594361065054",
+      "previous_sibling": "node_9_1594361411438"
+    },
+    {
+      "type": "standard",
+      "title": "Major Info for CS ",
+      "output": {
+        "generic": [
+          {
+            "title": "Here are some topics you may like to know. Click one to view more details",
+            "options": [
+              {
+                "label": "Major Popularity",
+                "value": {
+                  "input": {
+                    "text": "major_popularity_value"
+                  }
+                }
+              },
+              {
+                "label": "Major Role",
+                "value": {
+                  "input": {
+                    "text": "major_role value"
+                  }
+                }
+              },
+              {
+                "label": "Future Projection",
+                "value": {
+                  "input": {
+                    "text": "future_projection value"
+                  }
+                }
+              },
+              {
+                "label": "Graduation Rate",
+                "value": {
+                  "input": {
+                    "text": "graduation_rate value"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1594360957467",
+      "conditions": "#major_info",
+      "dialog_node": "node_9_1594361411438"
+    },
+    {
+      "type": "standard",
+      "title": "Change Major",
+      "output": {
+        "generic": [
+          {
+            "title": "What major would you like to change to?",
+            "options": [
+              {
+                "label": "Computer Science",
+                "value": {
+                  "input": {
+                    "text": "CS"
+                  }
+                }
+              },
+              {
+                "label": "Software Engineer",
+                "value": {
+                  "input": {
+                    "text": "SE"
+                  }
+                }
+              },
+              {
+                "label": "Electrical Engineering",
+                "value": {
+                  "input": {
+                    "text": "EE"
+                  }
+                }
+              },
+              {
+                "label": "Management Information Systems",
+                "value": {
+                  "input": {
+                    "text": "MIS"
+                  }
+                }
+              },
+              {
+                "label": "Statistics",
+                "value": {
+                  "input": {
+                    "text": "STAT"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1593809930684",
+      "conditions": "#changeMajor",
+      "dialog_node": "node_3_1594360845648",
+      "previous_sibling": "node_1_1594360782250"
+    },
+    {
+      "type": "standard",
+      "title": "Learn About Major",
+      "output": {
+        "generic": [
+          {
+            "title": "What is your major?",
+            "options": [
+              {
+                "label": "Computer Science",
+                "value": {
+                  "input": {
+                    "text": "CS"
+                  }
+                }
+              },
+              {
+                "label": "Software Engineer",
+                "value": {
+                  "input": {
+                    "text": "SE"
+                  }
+                }
+              },
+              {
+                "label": "Electrical Engineering",
+                "value": {
+                  "input": {
+                    "text": "EE"
+                  }
+                }
+              },
+              {
+                "label": "Management Information Systems",
+                "value": {
+                  "input": {
+                    "text": "MIS"
+                  }
+                }
+              },
+              {
+                "label": "Statistics",
+                "value": {
+                  "input": {
+                    "text": "STAT"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1593809930684",
+      "conditions": "@AcademicExploration:learn_major",
+      "dialog_node": "node_1_1594360782250"
+    },
+    {
+      "type": "standard",
+      "title": "Connection",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<strong>PROFESSIONALS CONNECT</strong>\n<br>Whether you are brought together by geographic location, cultural identity, or a student community from your time on campus, CASExplorer will be here with you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.simc.edu/img/gallery/large/pic_7.jpg",
+            "response_type": "image"
+          },
+          {
+            "title": "What would you like to explore?",
+            "options": [
+              {
+                "label": "Success Stories",
+                "value": {
+                  "input": {
+                    "text": "ComputerScience"
+                  }
+                }
+              },
+              {
+                "label": "Find Your Network",
+                "value": {
+                  "input": {
+                    "text": "network"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1594541182716",
+      "conditions": "#Connection",
+      "dialog_node": "node_9_1594541782959",
+      "previous_sibling": "node_8_1594541287691"
+    },
+    {
+      "type": "standard",
+      "title": "Roadmap",
+      "output": {
+        "generic": [
+          {
+            "title": "Find Your Major Here",
+            "options": [
+              {
+                "label": "STEM Major",
+                "value": {
+                  "input": {
+                    "text": "STEM"
+                  }
+                }
+              },
+              {
+                "label": "Other Major",
+                "value": {
+                  "input": {
+                    "text": "Others"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1594541182716",
+      "conditions": "#roadmap",
+      "dialog_node": "node_8_1594541287691"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your top trait is $emo. You are level-headed and confident during changes and are optimistic. People who score high in $emo may enjoy the following careers: <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Information%20Security%20Analysts&onetcode=15112200&location=UNITED%20STATES\" target=\"blank\">Information Security Analyst</a> and <a href=\"https://www.careeronestop.org/site-search.aspx?keyword=computer%20science%20teachers\" target=\"blank\">Computer Science Teacher</a>."
+              },
+              {
+                "text": "Your top trait is $emo. You tend to be easy-going and can adapt during stressful situations. People who score high in $emo may enjoy the following careers: <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Information%20Security%20Analysts&onetcode=15112200&location=UNITED%20STATES\" target=\"blank\">Information Security Analyst</a> and <a href=\"https://www.careeronestop.org/site-search.aspx?keyword=computer%20science%20teachers\" target=\"blank\">Computer Science Teacher</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_3_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1593806544982"
+      },
+      "conditions": "@emotional_stability",
+      "dialog_node": "node_8_1593806544982",
+      "previous_sibling": "node_7_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your top trait is $extro. You are sociable and thrive in others’ company. People who score high on $extro may enjoy the following careers: <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Computer%20and%20Information%20Systems%20Managers&onetcode=11302100&location=USA\" target=\"blank\">Computer and Information Systems Manager</a> and <a href=\"https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager\" target=\"blank\">Product Manager</a>."
+              },
+              {
+                "text": "Your top trait is $extro. You have a diverse set of friends and tend to be vocal about your feelings. People who score high on $extro may enjoy the following careers: <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Computer%20and%20Information%20Systems%20Managers&onetcode=11302100&location=USA\" target=\"blank\">Computer and Information Systems Manager</a> and <a href=\"https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager\" target=\"blank\">Product Manager</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_3_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1593806544982"
+      },
+      "conditions": "@extroversion",
+      "dialog_node": "node_6_1593806544982",
+      "previous_sibling": "node_5_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your top trait is $cons. You tend to be self-disciplined and prefer to finish your work in advance. People who score high in $cons may enjoy the following careers: <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Business%20Intelligence%20Analysts&onetcode=15119908&location=UNITED%20STATES\" target=\"blank\">Business Intelligence Analyst</a>, <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=11302100\">IT Manager</a>, and <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Database%20Architects&onetcode=15119906&location=UNITED%20STATES\" target=\"blank\">Database Architect</a>."
+              },
+              {
+                "text": "Your top trait is $cons. You tend to be goal-oriented, detailed, and enjoy setting plans for yourself or others. People who score high in $cons may enjoy the following careers: <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Business%20Intelligence%20Analysts&onetcode=15119908&location=UNITED%20STATES\" target=\"blank\">Business Intelligence Analyst</a>, <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=11302100\">IT Manager</a>, and <a href=\"https://www.careeronestop.org/toolkit/careers/occupations/Occupation-profile.aspx?keyword=Database%20Architects&onetcode=15119906&location=UNITED%20STATES\" target=\"blank\">Database Architect</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_3_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1593806544982"
+      },
+      "conditions": "@conscientiousness",
+      "dialog_node": "node_5_1593806544982",
+      "previous_sibling": "node_4_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your top trait is $agree. You are an empathetic team-player who enjoys contributing to a community. People who score high in $agree may enjoy the following careers: <a href=\"https://www.careeronestop.org/site-search.aspx?keyword=computer%20science%20teachers\" target=\"blank\">Computer Science Teacher</a> and <a href=\"https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager\" target=\"blank\">Product Manager</a>."
+              },
+              {
+                "text": "Your top trait is $agree. You are cooperative and patient with others. People who score high in $agree may enjoy the following careers: <a href=\"https://www.careeronestop.org/site-search.aspx?keyword=computer%20science%20teachers\" target=\"blank\">Computer Science Teacher</a> and <a href=\"https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager\" target=\"blank\">Product Manager</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_3_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1593806544982"
+      },
+      "conditions": "@agreeableness",
+      "dialog_node": "node_7_1593806544982",
+      "previous_sibling": "node_6_1593806544982"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "time": 10,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Your top trait is $openness. You enjoy creative thinking and are receptive to new ideas. People who score high in $openness may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Web%20Developers&onetcode=15113400&location=UNITED%20STATES\" target=\"blank\">Web Developer</a>, <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=15119911\" target=\"blank\">Video Game Designer</a>, and <a href=\"http://www.onwardsearch.com/career-center/ux-careers-guide/\" target=\"blank\">User Interface (UI)/User Experience (UX)</a>."
+              },
+              {
+                "text": "Your top trait is $openness. You are open-minded and are insightful. People who score high in $openness may enjoy the following careers: <a href=\"https://www.careeronestop.org/Toolkit/Careers/Occupations/Occupation-profile.aspx?keyword=Web%20Developers&onetcode=15113400&location=UNITED%20STATES\" target=\"blank\">Web Developer</a>, <a href=\"https://www.careeronestop.org/videos/careeronestop-videos.aspx?videocode=15119911\" target=\"blank\">Video Game Designer</a>, and <a href=\"http://www.onwardsearch.com/career-center/ux-careers-guide/\" target=\"blank\">User Interface (UI)/User Experience (UX)</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_3_1593806544982",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1593806544982"
+      },
+      "conditions": "@openness",
+      "dialog_node": "node_4_1593806544982"
+    },
+    {
+      "type": "standard",
+      "title": "cs areas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are some examples of areas in computer science that you can explore:\n\n<br> <strong><a href=\"https://www.computersciencedegreehub.com/faq/skills-job-artificial-intelligence/\" target=\"blank\">Artificial Intelligence:</a></strong> Develop computers that simulate human learning and reasoning ability.\n\n<br> <strong><a href=\"https://study.com/computer_architect.html\" target=\"blank\">Computer Architecture:</a> </strong> Design new components and systems for everything from high-performance networked parallel machines to low-cost and low-power iPods.\n\n<br> <strong><a href=\"https://www.learnhowtobecome.org/computer-engineer/\" target=\"blank\">Computer Design and Engineering:</a></strong> Design new computer circuits, microchips, or other electronic components.\n\n<br> <strong><a href=\"https://cstheory.stackexchange.com/\" target=\"blank\">Theoretical Computer Science:</a></strong> Investigate fundamental theories of how computers solve problems and apply the results to other areas of computer science.\n\n<br> <strong><a href=\"https://thebestschools.org/careers/computer-information-technology-careers/\" target=\"blank\">Information Technology:</a></strong> Develop and manage information systems that support business or organization.\n\n<br> <strong><a href=\"https://www.mymajors.com/career/operating-systems-specialist/\" target=\"blank\">Operating Systems and Networks:</a></strong> Develop basic software that computers for self-supervision or inter-communication with other computers.\n\n<br> <strong><a href=\"https://collegegrad.com/careers/software-developers\" target=\"blank\">Software Applications:</a></strong> Apply computing and technology for problem solving outside the computer field, for example, education or medicine.\n\n<br> <strong><a href=\"https://www.computerscienceonline.org/careers/software-engineering/\" target=\"blank\">Software Engineering:</a></strong> Develop methods for the production of software systems efficiently and effectively."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Do you want to hear some success stories from this field? (*Type yes or no*)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594541388724",
+      "conditions": "@STEM:CS",
+      "dialog_node": "node_10_1594541546953"
+    },
+    {
+      "type": "standard",
+      "title": "Ask user what they would like to do next",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1594361717820",
+      "conditions": "#no || #General_Negative_Feedback",
+      "dialog_node": "node_1_1594362245788",
+      "previous_sibling": "node_2_1594361800811"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1594361717820",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1594360957467"
+      },
+      "conditions": "#yes || #General_Positive_Feedback",
+      "dialog_node": "node_2_1594361800811"
+    },
+    {
+      "type": "standard",
+      "title": "feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your feedback."
+              },
+              {
+                "text": "Thanks. I hope I can do better next time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**Major info**, **academic exploration**, **career exploration**, **self-exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594408647497",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_9_1594361411438"
+      },
+      "conditions": "#General_Positive_Feedback || #General_Negative_Feedback || #metrics_feedback",
+      "dialog_node": "node_8_1594408689042"
+    },
+    {
+      "type": "standard",
+      "title": "Check for no",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What do you want to explore next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594541881154",
+      "conditions": "@ComputerScience:other && #no",
+      "dialog_node": "node_7_1594542409843",
+      "previous_sibling": "node_4_1594542037050"
+    },
+    {
+      "type": "standard",
+      "title": "CE",
+      "output": {
+        "generic": [
+          {
+            "title": "Gavin Huang",
+            "source": "https://www.shareicon.net/data/512x512/2016/05/24/770137_man_512x512.png",
+            "description": "CS Major, Computer Engineering track",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Gavin currently studies computer science at San Jose State University. He aims to be an engineer. His professional experience includes two internships: one as a software engineer at SportsMEDIA and one as a data analyst at Lyvebee. Both opportunities allowed him to explore different tracks in computer science."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Do you want to connect with Gavin? (*Type yes or no*)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594541881154",
+      "conditions": "@ComputerScience:CE || #General_Positive_Feedback || #yes",
+      "dialog_node": "node_4_1594542037050"
+    },
+    {
+      "type": "standard",
+      "title": "feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your feedback."
+              },
+              {
+                "text": "Thanks. I hope I can do better next time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**Major info**, **academic exploration**, **career exploration**, **self-exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594409914530",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_9_1594361411438"
+      },
+      "conditions": "#General_Positive_Feedback || #General_Negative_Feedback || #metrics_feedback",
+      "dialog_node": "node_10_1594409971919"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Find your network <a href=\"https://www.example.com/menu.html\" target=\"blank\">here</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1594541782959",
+      "conditions": "@Connection:network",
+      "dialog_node": "node_10_1594542497311",
+      "previous_sibling": "node_4_1594541881154"
+    },
+    {
+      "type": "standard",
+      "title": "diverse tracks",
+      "output": {
+        "generic": [
+          {
+            "title": "Common Computer Science-Related Track",
+            "options": [
+              {
+                "label": "Computer Design and Engineering",
+                "value": {
+                  "input": {
+                    "text": "CE"
+                  }
+                }
+              },
+              {
+                "label": "Computer Architecture",
+                "value": {
+                  "input": {
+                    "text": "CA"
+                  }
+                }
+              },
+              {
+                "label": "Artificial Intelligence",
+                "value": {
+                  "input": {
+                    "text": "AI"
+                  }
+                }
+              },
+              {
+                "label": "Theoretical Computer Science",
+                "value": {
+                  "input": {
+                    "text": "TCS"
+                  }
+                }
+              },
+              {
+                "label": "Information Technology",
+                "value": {
+                  "input": {
+                    "text": "IT"
+                  }
+                }
+              },
+              {
+                "label": "Operating Systems and Networks",
+                "value": {
+                  "input": {
+                    "text": "OSN"
+                  }
+                }
+              },
+              {
+                "label": "Software Application",
+                "value": {
+                  "input": {
+                    "text": "SA"
+                  }
+                }
+              },
+              {
+                "label": "Software Engineering",
+                "value": {
+                  "input": {
+                    "text": "SE"
+                  }
+                }
+              }
+            ],
+            "description": "Check which area of success stories you want to hear from",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1594541782959",
+      "conditions": "@Connection:ComputerScience || #General_Positive_Feedback",
+      "dialog_node": "node_4_1594541881154"
+    },
+    {
+      "type": "standard",
+      "parent": "node_3_1594360845648",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1594360957467"
+      },
+      "conditions": "#ComputerScience",
+      "dialog_node": "node_2_1594360915580"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594541546953",
+      "conditions": "#no || #General_Negative_Feedback",
+      "dialog_node": "node_5_1594541763795",
+      "previous_sibling": "node_7_1594541756696"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_10_1594541546953",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1594541881154"
+      },
+      "conditions": "#yes || #General_Positive_Feedback",
+      "dialog_node": "node_7_1594541756696"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              },
+              {
+                "text": "I'm not sure I understand, could you repeat that?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_6_1593725228501",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I could tell a joke about pizza, but it's cheesy."
+              },
+              {
+                "text": "Why did the florist go out of business? **To many problems a rose**"
+              },
+              {
+                "text": "What do you can someone with no body and no nose? **Nobody knows**"
+              },
+              {
+                "text": "What did the ocean say to the shore? **Nothing, it just waved.**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#General_Jokes",
+      "dialog_node": "node_5_1593811932300",
+      "previous_sibling": "node_5_1593810734065"
+    },
+    {
+      "type": "standard",
+      "title": "Career exploration explained",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To explore different careers with a focus on STEM, read career success stories, and connect with professionals."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://i.ibb.co/QDJR037/career-exploration-navigation.png",
+            "response_type": "image"
+          },
+          {
+            "time": 6,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#career_explain &&  @career:(career exploration about?)",
+      "digress_in": "returns",
+      "dialog_node": "node_8_1593810288734",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1593810285355"
+    },
+    {
+      "type": "standard",
+      "title": "Academic Exploration",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, welcome to academic exploration!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Great! Do you want to learn more about your major? Or do you want to change your major?",
+            "options": [
+              {
+                "label": "Learn more about my major",
+                "value": {
+                  "input": {
+                    "text": "learn_major"
+                  }
+                }
+              },
+              {
+                "label": "Change my major",
+                "value": {
+                  "input": {
+                    "text": "change_major"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#academic || @academic && #AcademicExploration",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1593809930684",
+      "previous_sibling": "node_4_1593806506978"
+    },
+    {
+      "type": "standard",
+      "title": "Career Exploration Menu",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome, let's explore potential careers for you!"
+              },
+              {
+                "text": "We provide two kinds of services. Which one do you want to check out first?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "Our Services:",
+            "options": [
+              {
+                "label": "Build Career Roadmap",
+                "value": {
+                  "input": {
+                    "text": "roadmap"
+                  }
+                }
+              },
+              {
+                "label": "Connect with Professionals",
+                "value": {
+                  "input": {
+                    "text": "connection"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#career || @career",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1594541182716",
+      "previous_sibling": "node_1_1593809930684"
+    },
+    {
+      "type": "standard",
+      "title": "Features of the chatbot",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can assist you in learning about your personality and different STEM-related majors and careers that may suit you."
+              },
+              {
+                "text": "I'm here to help you explore your personality and interests, and the corresponding STEM majors and careers."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "",
+            "source": "https://i.ibb.co/MB5yJYw/overall-navi.png",
+            "description": "",
+            "response_type": "image"
+          },
+          {
+            "time": 6,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#value_explain",
+      "digress_in": "returns",
+      "dialog_node": "node_5_1593809381645",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_3_1594541182716"
+    },
+    {
+      "type": "standard",
+      "title": "Academic exploration explained",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Academic exploration will inform you about a STEM-related major by showing all the skills needed to succeed in your major and the information about your major."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://i.ibb.co/ws0YV9y/academic-exploration-navigation.png",
+            "response_type": "image"
+          },
+          {
+            "time": 6,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#academic_explain &&  @academic:(academic exploration about?)",
+      "digress_in": "returns",
+      "dialog_node": "node_9_1593810285355",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1593807435040"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm sorry to hear that, but I'm still in development."
+              },
+              {
+                "text": "I'm sorry to hear that, but I'm working to improve."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#General_Negative_Feedback",
+      "digress_in": "returns",
+      "dialog_node": "node_1_1593810593661",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1593810499000"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm just a chatbot, but the humans who made me are here in spirit."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Human_or_Bot",
+      "digress_in": "returns",
+      "dialog_node": "node_4_1593810499000",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_5_1593809381645"
+    },
+    {
+      "type": "standard",
+      "title": "Self exploration explained",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In the self exploration category, you can take a personality test and find out some suitable careers based on your highest- and lowest-scored traits."
+              },
+              {
+                "text": "You can learn more about your personality traits and figure out what careers match you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "source": "https://i.ibb.co/yBk2tgD/self-exploration-navigation.png",
+            "response_type": "image"
+          },
+          {
+            "time": 6,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "What would you like to do next? (**academic**, **career**, or **self exploration**)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#self_explain &&   @self:(what is self exploration?)",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1593807435040",
+      "digress_out": "allow_all",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No problem! "
+              },
+              {
+                "text": "Glad to hear that!"
+              },
+              {
+                "text": "Glad to help!"
+              },
+              {
+                "text": "You're welcome!"
+              },
+              {
+                "text": "My pleasure!"
+              },
+              {
+                "text": "You're too kind :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#General_Positive_Feedback",
+      "digress_in": "returns",
+      "dialog_node": "node_5_1593810734065",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1593810593661"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Talk to you next time!"
+              },
+              {
+                "text": "See you soon!"
+              },
+              {
+                "text": "Thank you for chatting with me!"
+              },
+              {
+                "text": "Bye, have a great day!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_6_1593725228501",
+      "previous_sibling": "node_5_1593811932300"
+    },
+    {
+      "type": "standard",
+      "title": "Self Exploration",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm here to help you learn more about yourself, so you can explore computer-science-related jobs that match your personality. You may find the <a href=\"https://openpsychometrics.org/tests/IPIP-BFFM/\" target=\"blank\">Big 5 Personality test</a> helpful."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1593806544957"
+      },
+      "conditions": "#self || @self",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1593806506978",
+      "previous_sibling": "node_8_1593810288734"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there! Welcome to CASExplorer! I'm here to help you learn more about STEM careers, more specifically in technology. Where would you like to start? \n\nYou can type in **self exploration**, **academic exploration**, or **career exploration** to learn more about each area I know of."
+              },
+              {
+                "text": "Hi there! I'm here to help you learn more about STEM careers, more specifically in technology. \n\nWhere do you want to go? *Type one category:* **self exploration**, **academic exploration**, or **career exploration**?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Exploration",
+  "language": "en",
+  "description": ""
+}
