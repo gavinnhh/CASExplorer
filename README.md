@@ -22,6 +22,7 @@ We created a prototype aimed at solving the mentioned problem, for which we leve
 
 
 ## Road Map
+![GitHub Logo](/roadmap.jpg) 
 
 --------------------------------------------------------------------------
 
