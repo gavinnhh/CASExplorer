@@ -5,31 +5,39 @@
 ##
 
 
-## Short Description (Describe your team’s solution in about ten words):
+## CASExplorer: What does it mean?
+
+Pronounced as “case explorer”
+
+The **“C-A-S”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for students to explore: **C**areer, **A**cademic, and **S**elf exploration. The terms CASE and Explorer stem from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways students can navigate the virtual assistant for their own needs, hence the name CASExplorer.
+
+## Overview
 
 Chatbot that assists college students 24/7 in exploring STEM majors and careers, so they can be more confident in their decisions. 
 
-## Long Description (About 500 words, or around one page of text, that covers the solution in more detail. Please include the real-world problem you identified, describe the technology project you created, and explain why it's better than any existing solution):
+## Why CASExplorer? 
 
-##### What's the problem?
-COVID-19 has launched the world into the midst of unprecedented time. Educational institutions in the most affected areas are transitioning to virtual learning to limit the spread of the Coronavirus. Remote learning can be difficult to normalize due to the lack of one-on-one interaction between student and instructor and the lack of direct assistance and explanation from the instructor may prevent students from assimilating the concepts to the fullest extent. Therefore, it is crucial to minimize those factors by ensuring students can receive counseling from their academic advisors whenever they need assistance. Academic advisors provide one to one support and guidance for students to achieve their academic and career goals. The pandemic is making many students feel anxious about their career and academic future. Virtual sessions with career counselors have become sacred due to high demand.  
+Educational institutions are one of the most affected areas that are transitioning to virtual learning to limit the spread of the COVID-19. The pandemic exacerbates many students’ anxiety about their academic careers and futures. Career advisors can provide one-on-one support for students to achieve their goals, however, there are not enough advisors for the thousands of students at a university. The move to online services is no different; virtual appointments with career counselors are still scarce due to high demand. In addition, career counselors are focused on providing general career advice to students rather than specific advice because their audience are students coming from a variety of majors. 
 
+Existing chatbot solutions for education do some form of the following:
+- Answers general questions about a specific university e.g. “When will I receive financial aid?”
+- Quizzes students on specific subject e.g. science
 
+Therefore, our prototype aims to take a different approach to: 
+- Provide career assistance in STEM 24/7
+- Assist students who are unsure about the STEM major to study
+- Assist students who are curious about switching to a STEM major
+- Filter out information from Google giving relevant results on STEM 
+- Be a universal chatbot for all college students, where information is not centered on a single school
 
+Most importantly, our prototype aims to provide virtual guidance and support to students, so they can be more confident with their major and career choices. In the future, we hope to expand the chatbot to other fields of study.
 
-##### Describe the technology project you created: #####
-We created a prototype aimed at solving the mentioned problem, for which we leveraged IBM Watson in our project. It is basically a Chatbot that gathered different channels of information. By identifying the keyword that users type in, it automatically outputs the answer from its database. There are three main parts of our Chatbot, first is self-exploration, second is academic exploration, and the third is career exploration. Users will navigate whichever they would like to explore based on the hint information. In the self-exploration part, we use a personality test that integrated Watson personality insight to analyze individual personality, based on which our Chatbot will not only have a detailed interpretation of their result but also recommend potential careers for them. Next in the academic exploration part, users can both learn about the major they are interested in and get the required skills for the major. To learn about your major, information regarding major popularity, major role, future projection, and graduate rate are provided. To get the required skills information, some filtered channels will be provided for them to check. In the last career exploration section, it tells users more about the potential tracks of the major they are interested in. In addition, it also shows them some success stories regarding the specific major area, and allow users to get the connection with whom in the story, which provided users more reliable experience. Considering about user-friendly aspect, for most parts, users only need to click on the options button to get the solutions they want. 
+## Our Solution
 
-## Why CASExplorer
- - Provide career assistance in STEM 24/7
-
- - Assist students who are unsure about the STEM major to study
-
- - Assist students who are curious about switching to a STEM major
-
- - Filter out information from Google giving relevant results on STEM 
-
- - Be a universal chatbot for all college students, where information is not centered on a single school
+We created a prototype aimed at solving the issue of high demand in university career counseling appointments, where we leveraged IBM Watson Assistant. It is a chatbot that gathers and provides users with specific information from the internet for the users’ needs, in our case, information to help students explore college majors.
+There are three main parts of our chatbot, which are self exploration, academic exploration, and career exploration. Users can freely navigate to the section they would like to explore. In the self-exploration part, we use a personality test to analyze an individual’s personality. From the users’ results, our chatbot will give a detailed recommendation on the potential careers suitable for them. 
+Next in the academic exploration part, users can learn about the major they are interested in and get the required skills for that major. Information regarding major popularity, major role, future projection, and graduation rate are provided. Regarding the skills associated with each major, some resources reviewed by the creators of the chatbot will be provided for users to check out. 
+In the last section, called career exploration, users learn more about the potential tracks of the major they are interested in. In addition, the section shows students some professional success stories regarding the specific major area, and allows users to connect with those in the story, providing users with a more enriching experience.
 
 
 ## Road Map
