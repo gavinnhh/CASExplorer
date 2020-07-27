@@ -7,7 +7,7 @@
 
 ## Short Description (Describe your team’s solution in about ten words):
 
-Let people explore more about themselves, their academic and futures.
+Chatbot that assists college students 24/7 in exploring STEM majors and careers, so they can be more confident in their decisions. 
 
 ## Long Description (About 500 words, or around one page of text, that covers the solution in more detail. Please include the real-world problem you identified, describe the technology project you created, and explain why it's better than any existing solution):
 
