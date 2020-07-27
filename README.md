@@ -27,6 +27,8 @@ We created a prototype aimed at solving the mentioned problem, for which we leve
 
 
 ## Conversation Flow
+
+![GitHub Logo](/ConversationFlow.png) 
 --------------------------------------------------------------------------
 
 
