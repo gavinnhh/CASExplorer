@@ -23,9 +23,13 @@ We created a prototype aimed at solving the mentioned problem, for which we leve
 
 ##### Why ours
 Provide career assistance in STEM 24/7
+
 Assist students who are unsure about the STEM major to study
+
 Assist students who are curious about switching to a STEM major
+
 Filter out information from Google giving relevant results on STEM 
+
 Be a universal chatbot for all college students, where information is not centered on a single school
 
 
