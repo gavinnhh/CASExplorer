@@ -2,6 +2,8 @@
 
 ![GitHub Logo](/CASExplorer.png) 
 
+![Alt Text](/gif.gif)
+
 ##
 
 
