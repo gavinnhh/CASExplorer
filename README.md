@@ -41,17 +41,15 @@ There are three main parts of our chatbot, which are self exploration, academic 
 Next in the academic exploration part, users can learn about the major they are interested in and get the required skills for that major. Information regarding major popularity, major role, future projection, and graduation rate are provided. Regarding the skills associated with each major, some resources reviewed by the creators of the chatbot will be provided for users to check out. 
 In the last section, called career exploration, users learn more about the potential tracks of the major they are interested in. In addition, the section shows students some professional success stories regarding the specific major area, and allows users to connect with those in the story, providing users with a more enriching experience.
 
+## See Our Demo Video
+[![Watch the video](https://img.youtube.com/vi/Sa3w50Kn6TY/hqdefault.jpg)](https://youtu.be/Sa3w50Kn6TY) 
 
 ## Road Map
 ![GitHub Logo](/roadmap.jpg) 
 
-
 ## Conversation Flow
 
 ![GitHub Logo](/ConversationFlow.png) 
-
-## See Our Demo Video
-[![Watch the video](https://img.youtube.com/vi/Sa3w50Kn6TY/hqdefault.jpg)](https://youtu.be/Sa3w50Kn6TY) 
 
 <!--
 [![IMAGE ALT TEXT HERE](/CASExplorer.png)](https://youtu.be/Sa3w50Kn6TY)
