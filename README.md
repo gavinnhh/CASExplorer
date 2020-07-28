@@ -51,4 +51,4 @@ In the last section, called career exploration, users learn more about the poten
 ## See Our Demo Video
 https://youtu.be/Sa3w50Kn6TY
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Sa3w50Kn6TY)
+[![IMAGE ALT TEXT HERE](/CASExplorer.png)](https://youtu.be/Sa3w50Kn6TY)
