@@ -1,7 +1,8 @@
 # CASExplorer 
 
+<!--
 ![GitHub Logo](/CASExplorer.png) 
-
+-->
 ![Alt Text](/demo.gif)
 
 ##
