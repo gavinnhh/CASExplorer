@@ -49,7 +49,7 @@ In the last section, called career exploration, users learn more about the poten
 ![GitHub Logo](/ConversationFlow.png) 
 
 ## See Our Demo Video
-https://youtu.be/Sa3w50Kn6TY
+[![Watch the video](https://img.youtube.com/vi/Sa3w50Kn6TY/maxresdefault.jpg)](https://youtu.be/Sa3w50Kn6TY)
 
 <!--
 [![IMAGE ALT TEXT HERE](/CASExplorer.png)](https://youtu.be/Sa3w50Kn6TY)
