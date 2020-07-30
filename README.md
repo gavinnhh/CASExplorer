@@ -8,7 +8,7 @@
 ##
 
 
-## CASExplorer: What does it mean?
+## CASExplorer: What is it?
 
 Pronounced as “case explorer”
 
