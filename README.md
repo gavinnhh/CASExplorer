@@ -7,16 +7,16 @@
 
 ##
 
-
-## CASExplorer: What is it?
-
-CASExplorer(Pronounced as “case explorer”)
-
-The **“C-A-S”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for students to explore: **C**areer, **A**cademic, and **S**elf exploration. The terms CASE and Explorer stem from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways students can navigate the virtual assistant for their own needs, hence the name CASExplorer.
-
 ## Overview
 
 Chatbot that assists college students 24/7 in exploring STEM majors and careers, so they can be more confident in their decisions. 
+
+## CASExplorer: What is it?
+
+**CASExplorer** (*Pronounced as “case explorer”*):
+
+The **“C-A-S”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for students to explore: **C**areer, **A**cademic, and **S**elf exploration. The terms CASE and Explorer stem from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways students can navigate the virtual assistant for their own needs, hence the name CASExplorer.
+
 
 ## Why CASExplorer? 
 
