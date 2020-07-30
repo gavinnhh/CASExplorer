@@ -10,7 +10,7 @@
 
 ## CASExplorer: What is it?
 
-Pronounced as “case explorer”
+CASExplorer(Pronounced as “case explorer”)
 
 The **“C-A-S”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for students to explore: **C**areer, **A**cademic, and **S**elf exploration. The terms CASE and Explorer stem from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways students can navigate the virtual assistant for their own needs, hence the name CASExplorer.
 
