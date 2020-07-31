@@ -43,7 +43,7 @@ Next in the academic exploration part, users can learn about the major they are 
 In the last section, called career exploration, users learn more about the potential tracks of the major they are interested in. In addition, the section shows students some professional success stories regarding the specific major area, and allows users to connect with those in the story, providing users with a more enriching experience.
 
 ## See Our Demo Video
-[![Watch the video](https://img.youtube.com/vi/Sa3w50Kn6TY/hqdefault.jpg)](https://youtu.be/Sa3w50Kn6TY) 
+[![Watch the video](https://img.youtube.com/vi/SaaxIlViHTk/hqdefault.jpg)](https://youtu.be/SaaxIlViHTk) 
 
 ## Road Map
 ![GitHub Logo](/roadmap.jpg) 
